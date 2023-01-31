@@ -1,0 +1,70 @@
+header {
+  border-bottom: 2px solid black;
+}
+
+li {
+  display: inline;
+  margin-right: 30px;
+  font-size: large;
+}
+
+a {
+  color: black;
+}
+
+.main-nav {
+  margin-left: 600px;
+}
+
+.section-1 {
+  position: relative;
+  display: inline-block;
+  margin-left: 200px;
+  margin-top: 264px;
+  /* margin-right: 72px; */
+  border: 2px solid black;
+  padding-left: 20px;
+  /* padding-right: 10px; */
+  padding-bottom: 50px;
+}
+
+button {
+  position: absolute;
+  margin-left: 327px;
+  margin-top: 80px;
+}
+
+.button-1 {
+  margin-left: 274px;
+}
+
+.contact-us {
+  margin-left: 700px;
+  margin-top: 150px;
+  font-size: 40px;
+}
+
+.info {
+  font-size: 30px;
+  margin-left: 200px;
+  margin-top: 50px;
+}
+
+.about-title {
+  margin-left: 700px;
+  margin-top: 150px;
+  font-size: 40px;
+}
+
+.about-info {
+  margin-left: 200px;
+  margin-top: 100px;
+  font-size: 30px;
+  width: 1000px;
+  height: 120;
+}
+
+span {
+  font-size: 20px;
+  margin-left: 200px;
+}
